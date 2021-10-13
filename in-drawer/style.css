@@ -137,6 +137,10 @@ header .container::after {
 
 
 /*  ハンバーガーメニュー  */
+#gnav li:first-child {
+  padding: 3em;
+  border-bottom: solid 1px #999;
+}
 #gnav {
   /* position: fixed;は、長さ・高さを指定しないとブロックが消えてしまうので注意 */
   position: fixed;
