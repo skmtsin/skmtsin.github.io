@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.1992f4e62bb13ff2a4a197cbe815e26e.js"
+  "precache-manifest.d2604b2ec3c01ed743f47680640e094c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "clockapp"});
